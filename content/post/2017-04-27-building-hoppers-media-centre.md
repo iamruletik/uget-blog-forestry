@@ -1,6 +1,6 @@
 ---
-title: Barmanská show u vás doma s Uget a sirupy PiuPiu
-date: 2020-06-16T17:00:00+00:00
+title: Barmanská show u vás doma s Uget a sirupy PiuPiu – Primer
+date: 2020-06-16T17:00:00.000+00:00
 hero: "/images/piu-piu-blog-post.png"
 excerpt: Namíchejte si doma skvělý letní drink se sirupy PiuPiu, které používají barmani
   v top pražských restauracích.
