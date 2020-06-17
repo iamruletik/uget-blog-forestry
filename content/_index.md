@@ -1,6 +1,6 @@
 ---
 hero:
-  heading: Novela, the simplest way to start publishing with Hugo and Forestry.
+  heading: Uget writes about special local suppliers and cool recipes.
   maxWidthPX: 652
 seo:
   image: /images/hero-2.jpg
