@@ -6,7 +6,6 @@ excerpt: Namíchejte si doma skvělý letní drink se sirupy PiuPiu, které pou�
   v top pražských restauracích.
 timeToRead: 8
 authors: []
-draft: true
 
 ---
 Léto se nezadržitelně blíží a nastává ideální čas na svěží letní drinky. Za pořádným pitím už ale nemusíte do baru. V Uget jsme dali dohromady recepty na míchané nápoje, se kterými zazáříte a zvládnete je sami doma. Je to jednoduché a stačí vám k tomu pár kvalitních surovin. A nejlepší je, že všechny ingredience pořídíte při jednom online nákupu přímo na Uget.
@@ -14,6 +13,8 @@ Léto se nezadržitelně blíží a nastává ideální čas na svěží letní 
 Základem drinků jsou přírodní sirupy PiuPiu, na které nedají dopustit ani ti nejlepší barmani pražských podniků. Doteď si je mohly koupit jen restaurace a bary, díky Uget si je ale můžete domů objednat i vy. Sirupy jsou čistě přírodní, bez chemie, umělých sladidel a barviv.
 
 ### PiuPiu SMASH
+
+![Good Syrop](/images/uget_rakytnikovy_sirup_rakytnik.jpg "PiuPiu Smash")
 
 Drink napumpovaný vitamíny. Sytě oranžové plody rakytníku jsou napěchované nejen vitamínem C, ale i karotenoidy. Speciální odrůda rakytníku – Sluníčko –, která se používá na výrobu sirupu, dokonce obsahuje až 30x víc vitamínu C než citrusy. S tímhle drinkem tak posílíte imunitu raz dva.
 
