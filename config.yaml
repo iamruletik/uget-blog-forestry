@@ -1,11 +1,11 @@
-baseURL: "https://example.com"
+baseURL: "https://blog.uget.cz"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "Uget Blog"
 pygmentsstyle: 'monokai'
 
 # Theme settings
 theme: novela
-paginate: 6
+paginate: 4
 social:
   twitter: "#"
   github: "#"
