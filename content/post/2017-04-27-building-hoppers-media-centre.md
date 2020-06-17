@@ -14,7 +14,7 @@ Základem drinků jsou přírodní sirupy PiuPiu, na které nedají dopustit ani
 
 ### PiuPiu SMASH
 
-![Good Syrop](/images/uget_rakytnikovy_sirup_rakytnik.jpg "PiuPiu Smash")
+![](/images/uget_rakytnikovy_sirup_rakytnik.jpg)
 
 Drink napumpovaný vitamíny. Sytě oranžové plody rakytníku jsou napěchované nejen vitamínem C, ale i karotenoidy. Speciální odrůda rakytníku – Sluníčko –, která se používá na výrobu sirupu, dokonce obsahuje až 30x víc vitamínu C než citrusy. S tímhle drinkem tak posílíte imunitu raz dva.
 
