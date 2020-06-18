@@ -1,16 +1,21 @@
 ---
-title: Barmanská show u vás doma s Uget a sirupy PiuPiu – Primer
+title: Barmanská show u vás doma s Uget a sirupy PiuPiu
 date: 2020-06-16T17:00:00.000+00:00
 hero: "/images/piu-piu-blog-post.png"
 excerpt: Namíchejte si doma skvělý letní drink se sirupy PiuPiu, které používají barmani
   v top pražských restauracích.
 timeToRead: 8
 authors: []
+draft: true
 
 ---
-Léto se nezadržitelně blíží a nastává ideální čas na svěží letní drinky. Za pořádným pitím už ale nemusíte do baru. V Uget jsme dali dohromady recepty na míchané nápoje, se kterými zazáříte a zvládnete je sami doma. Je to jednoduché a stačí vám k tomu pár kvalitních surovin. A nejlepší je, že všechny ingredience pořídíte při jednom online nákupu přímo na Uget.
+Léto se nezadržitelně blíží a nastává ideální čas na svěží letní drinky. Za pořádným pitím už ale nemusíte do baru. V [Uget](https://shop.uget.cz/main "Uget") jsme dali dohromady recepty na míchané nápoje, se kterými zazáříte a zvládnete je sami doma.
 
-Základem drinků jsou přírodní sirupy PiuPiu, na které nedají dopustit ani ti nejlepší barmani pražských podniků. Doteď si je mohly koupit jen restaurace a bary, díky Uget si je ale můžete domů objednat i vy. Sirupy jsou čistě přírodní, bez chemie, umělých sladidel a barviv.
+Je to jednoduché a stačí vám k tomu pár kvalitních surovin. A nejlepší je, že všechny ingredience pořídíte při jednom online nákupu přímo na [Uget](https://shop.uget.cz/main "Uget").
+
+Základem drinků jsou přírodní [sirupy](https://shop.uget.cz/products?categories=13&suppliers=12 "sirupy") PiuPiu, na které nedají dopustit ani ti nejlepší barmani pražských podniků. Doteď si je mohly koupit jen restaurace a bary, díky [Uget](https://shop.uget.cz/main "Uget") si je ale můžete domů objednat i vy. Sirupy jsou čistě přírodní, bez chemie, umělých sladidel a barviv.
+
+**Barmanská show u vás doma s Uget a sirupy PiuPiu**
 
 ### PiuPiu SMASH
 
