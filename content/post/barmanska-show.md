@@ -6,7 +6,6 @@ excerpt: Namíchejte si doma skvělý letní drink se sirupy PiuPiu, které pou�
   v top pražských restauracích.
 timeToRead: 8
 authors: []
-draft: true
 
 ---
 Léto se nezadržitelně blíží a nastává ideální čas na svěží letní drinky. Za pořádným pitím už ale nemusíte do baru. V [Uget](https://shop.uget.cz/main "Uget") jsme dali dohromady recepty na míchané nápoje, se kterými zazáříte a zvládnete je sami doma.
