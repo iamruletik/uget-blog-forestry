@@ -1,7 +1,8 @@
 ---
 hero:
-  heading: Uget writes about special local suppliers and cool recipes.
-  maxWidthPX: 652
+  heading: ''
+  maxWidthPX: ''
 seo:
-  image: /images/hero-2.jpg
+  image: "/images/Uget_shop_napoje_sirupy_PiuPiu"
+
 ---
