@@ -40,3 +40,5 @@ fields:
   type: tag_list
   default: []
   label: Authors
+pages:
+- content/post/vyrazte-na-cestu-italii-s-uget-a-vinotekou-markuzzi.md
