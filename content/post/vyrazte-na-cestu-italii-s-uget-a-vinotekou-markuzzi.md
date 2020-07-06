@@ -20,6 +20,8 @@ _Prosecco se skvěle hodí k rybám a mořským plodům, případně jako aperit
 
 **Lis Neris, Sauvignon Picol**
 
+![](/images/anicka.jpg)
+
 V Benátsku ještě chvíli zůstaneme – konkrétně v oblasti Friuli. Bílé víno [**Sauvignon Picol**](https://shop.uget.cz/products/540-lis-neris-friuli-isonzo-lis-igt-pinot-grigio--chardonnay--sauvignon2016075) totiž pochází z tamního rodinného vinařství Lis Neris, které je unikátní svou polohou u řeky Isonzo. Půda je tu kamenitá a plná minerálů. V létě tu vane vítr z hor, který vytváří ideální prostředí, aby hrozny dozrály přesně tak, jak mají.
 
 Víno vás dostane svou výraznou vůní s náznakem bylin, bezu a paprik. V ústech se vám pak rozlije exploze chutí zeleného jablka, kopřiv, bylin a bezu. Víno má pevné tělo, které získalo zráním v dubových sudech.
