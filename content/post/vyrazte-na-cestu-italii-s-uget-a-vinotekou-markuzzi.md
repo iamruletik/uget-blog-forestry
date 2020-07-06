@@ -1,6 +1,6 @@
 +++
 authors = []
-date = 2020-07-04T22:00:00Z
+date = 2020-07-06T17:30:00Z
 draft = true
 excerpt = "Letos to na velkou exotickou dovolenou sice nevypadá, letní pohodu si ale můžete vychutnat i tak."
 hero = "/images/photo_2020-07-03_15-42-19.jpg"
