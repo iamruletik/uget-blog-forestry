@@ -1,7 +1,6 @@
 +++
 authors = []
 date = 2020-07-07T09:02:00Z
-draft = true
 excerpt = "Letos to na velkou exotickou dovolenou sice nevypadá, letní pohodu si ale můžete vychutnat i tak."
 hero = "/images/blog-hero-markuzzi-2.png"
 timeToRead = 5
