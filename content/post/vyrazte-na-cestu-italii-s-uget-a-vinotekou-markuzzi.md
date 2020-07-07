@@ -1,9 +1,8 @@
 +++
 authors = []
 date = 2020-07-06T17:30:00Z
-draft = true
 excerpt = "Letos to na velkou exotickou dovolenou sice nevypadá, letní pohodu si ale můžete vychutnat i tak."
-hero = "/images/photo_2020-07-03_15-42-19.jpg"
+hero = "/images/blog-hero-markuzzi-2.png"
 timeToRead = 5
 title = "Vyrazte na cestu Itálii s Uget a vinotékou Markuzzi"
 
